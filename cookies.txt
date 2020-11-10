@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d2fd34f104ca93c30477aa6def3cdbb031556021279
+.bootswatch.com	TRUE	/	FALSE	1999999999	__cfduid	d828f7076210f0418f799ba050a89ecee1556021280
+.datatables.net	TRUE	/	FALSE	1999999999	__cfduid	d04eeff4c2bbbbebd1b132588b5a5d9cd1556021282
+discordbotturkish.cf	TRUE	/	FALSE	1999999999	connect.sid	s%3AZye_3wox0qwX41VHq6Ksdm9Yp_Ru5xAa.YTRNtZKtEbzUgs7BG7SJ29ukZaFTA4ay7HT4m4Vex%2Bc
+.discordbotturkish.cf	TRUE	/	FALSE	1999999999	__cfduid	d10c07c0510252c02aebaded48f34a3c61556021581
+
